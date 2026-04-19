@@ -1,6 +1,10 @@
 # FlowYield
 payments flow, yield follows
 
+# Core concept
+
+A smart payment infrastructure layer that lets users send Solana-based payments while automatically routing idle funds through the highest-yield DeFi protocol during the transaction window. Think "every payment earns while it travels."
+
 
 # Architecture
 Here's the full architecture and MVP scope
