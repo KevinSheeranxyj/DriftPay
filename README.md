@@ -1,7 +1,7 @@
-# FlowYield
-payments flow, yield follows
+# DriftPay
+Payments flow, yield follows
 
-# Core concept
+# Core Concept
 
 A smart payment infrastructure layer that lets users send Solana-based payments while automatically routing idle funds through the highest-yield DeFi protocol during the transaction window. Think "every payment earns while it travels."
 
